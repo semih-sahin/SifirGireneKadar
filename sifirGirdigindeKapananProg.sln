@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sifirGirdigindeKapananProg", "sifirGirdigindeKapananProg\sifirGirdigindeKapananProg.csproj", "{540CE3A6-E860-4054-8C6A-1D136DE518A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540CE3A6-E860-4054-8C6A-1D136DE518A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540CE3A6-E860-4054-8C6A-1D136DE518A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540CE3A6-E860-4054-8C6A-1D136DE518A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540CE3A6-E860-4054-8C6A-1D136DE518A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EDF552-68A8-4B82-8D63-049C8DCF4D0D}
+	EndGlobalSection
+EndGlobal

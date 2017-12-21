@@ -1,0 +1,10 @@
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\bin\Debug\sifirGirdigindeKapananProg.exe.config
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\bin\Debug\sifirGirdigindeKapananProg.exe
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\bin\Debug\sifirGirdigindeKapananProg.pdb
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.csprojResolveAssemblyReference.cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.Form1.resources
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.Properties.Resources.resources
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.csproj.GenerateResource.Cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.csproj.CoreCompileInputs.cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.exe
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\sifirGirdigindeKapananProg\sifirGirdigindeKapananProg\obj\Debug\sifirGirdigindeKapananProg.pdb
